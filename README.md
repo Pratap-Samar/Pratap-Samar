@@ -10,7 +10,7 @@ I'm a Computer Science student at VIT Bhopal University, passionate about coding
 🚀 **Skills:**
 - Programming: Python, JavaScript, C++
 - Web Development: HTML, CSS
-- Tools & Technologies: Git, VS Code
+- Others: Prolog, Matlab
 
 Let's learn and grow together! 🤝
 
