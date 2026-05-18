@@ -49,17 +49,3 @@ This is my latest project, showcasing my ability to manage a project from concep
 </div>
 
 ---
-
-### 📊 My GitHub Stats & Activity
-
-Here's a look at my activity and the languages I work with most frequently.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratap-Samar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratap-Samar&layout=compact&langs_count=8&theme=dracula"/>
-  <br/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Pratap-Samar&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratap-Samar&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
