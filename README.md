@@ -33,6 +33,6 @@ Multi-temporal Sentinel-2 + Dynamic World land-cover analysis comparing 2019 vs 
 End-to-end pipeline that scrapes, analyzes, and visualizes fan sentiment for Spider-Man comic storylines, with a custom-themed interactive UI.
 `Python` `Pandas` `NLTK` `Streamlit` `Beautiful Soup`
 
-**Arcane Signatures** — D&D 5e class spell network analysis
+**[Arcane Signatures](https://github.com/Pratap-Samar/Arcane-Signatures)** — D&D 5e class spell network analysis
 Visualizes each D&D 5th Edition class's "magical signature" as a hub-and-spoke network graph, revealing which schools of magic define a class and which spells are truly exclusive to it — built to help identify defining spells vs. common ones shared across classes. Covers 9 classes (Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard).
 `Python` `Pandas` `NetworkX` `Pyvis` `Google Colab`
