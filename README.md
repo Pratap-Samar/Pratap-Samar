@@ -24,12 +24,15 @@
 
 **[GeoWatch V1](https://github.com/Pratap-Samar/geowatch-v1)** — Mining impact analysis using Google Earth Engine
 Multi-temporal Sentinel-2 + Dynamic World land-cover analysis comparing 2019 vs 2024 dry-season environmental change around the Zawar Zinc Mine (Udaipur, Rajasthan). Combines NDVI vegetation analysis, AI land-cover classification, confidence-aware filtering, and a mine-vs-reference-area comparison in a fully reproducible Colab notebook.
+
 `Python` `Google Earth Engine` `Geemap` `Pandas` `NumPy` `Matplotlib`
 
 **[Daily Bugle: Sentiment Dashboard](https://github.com/Pratap-Samar/Daily-Bugle-Sentiment-Dashboard)** — Sentiment analysis dashboard
 End-to-end pipeline that scrapes, analyzes, and visualizes fan sentiment for Spider-Man comic storylines, with a custom-themed interactive UI.
+
 `Python` `Pandas` `NLTK` `Streamlit` `Beautiful Soup`
 
 **[Arcane Signatures](https://github.com/Pratap-Samar/Arcane-Signatures)** — D&D 5e class spell network analysis
 Visualizes each D&D 5th Edition class's "magical signature" as a hub-and-spoke network graph, revealing which schools of magic define a class and which spells are truly exclusive to it — built to help identify defining spells vs. common ones shared across classes. Covers 9 classes (Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard).
+
 `Python` `Pandas` `NetworkX` `Pyvis` `Google Colab`
