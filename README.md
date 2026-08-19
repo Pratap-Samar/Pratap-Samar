@@ -1,9 +1,6 @@
 <h1 align="center">
  Samar Pratap
 </h1>
-
-<h3 align="center">Full-Stack Developer & Data Engineer — building toward DevOps/DevSecOps</h3>
-
 <p align="center">
 <a href="mailto:samarpratap100904@gmail.com">samarpratap100904@gmail.com</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/samar-pratap-044864363/">LinkedIn</a>
