@@ -16,7 +16,8 @@
 
 ### Stack
 
-`Python` `SQL` `Java` `C/C++` `JavaScript` `Node.js` `Bash` `Linux` `Git` `MySQL`
+Languages: `Python` `SQL` `Java` `C/C++` `JavaScript` `Node.js` `Bash` 
+Tools: `Linux` `Git` `MySQL`
 
 ---
 
