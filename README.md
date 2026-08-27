@@ -10,7 +10,7 @@
 
 ### About
 
-4th-year B.Tech CSE student (VIT Bhopal) with a Data Science and full-stack foundation, currently moving toward DevOps/DevSecOps. Short-term path: a Data Engineering internship to build on existing Python/SQL skills before transitioning fully into DevOps.
+4th-year B.Tech CSE student (VIT Bhopal) with a Data Science and Analytics foundation, currently moving toward DevOps.
 
 ---
 
