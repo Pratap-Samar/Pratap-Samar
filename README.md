@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:samarpratap100904@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/samar-pratap-044864363/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/samar-pratap-044864363/">LinkedIn</a>
 </p>
 
 ---
