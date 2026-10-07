@@ -38,7 +38,7 @@ Building data pipelines, APIs, containerized applications, and cloud-ready syste
 `AWS`
 
 **Tools**
-`Google Earth Engine` `Streamlit` `Jupyter` `Google Colab`
+ `Google Colab` `Jupyter` `Streamlit` `Google Earth Engine`
 
 ---
 
